@@ -65,3 +65,33 @@
     color: white;
     font-size: 200%;
 }
+
+/* Overskriften midt på siden */
+h1 {
+    text-align: center;
+}
+
+/* Status over kortene */
+.status {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.status-traek {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.status-vundet {
+    font-size: 22px;
+    font-weight: bold;
+    color: green;
+    margin-bottom: 8px;
+}
+
+.status-knap {
+    padding: 8px 18px;
+    border-radius: 8px;
+    background-color: rgb(249, 162, 30);
+    font-weight: bold;
+}
